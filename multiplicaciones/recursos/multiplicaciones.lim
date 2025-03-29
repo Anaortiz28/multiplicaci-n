@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <recursos>recursos</recursos>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <corbanda>E5E5E5</corbanda>
+        <cornavega>00FFFF</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <logo>Imagen1.jpg</logo>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >CORRECTO</correcto>
+        <incorrecto son="" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>3</tipo>
+              <imaxe>1.png</imaxe>
+              <filas>2</filas>
+              <columnas>2</columnas>
+              <reixa>0</reixa>
+            <forma>0</forma>
+        </paxina>
+        <paxina id="2" >
+              <tipo>15</tipo>
+              <cfondo>84E1FD</cfondo>
+              <ctexto>000000</ctexto>
+              <menu boton="CONCEPTO" imaxe="T_erminos_multipl.PNG"><![CDATA[]]></menu>
+              <menu boton="EJEMPLOS"><![CDATA[<font size="12"><center><br><iframe width="560" height="315" src="https://www.youtube.com/embed/RZj2JNlJSy0?si=WXHAq4wNOtkkip_q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br><center></font>]]></menu>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="3" >
+              <tipo>10</tipo>
+              <imaxe>6.png</imaxe>
+              <pregunta res="3">¿cuantos grupos de tazas de tè hay?</pregunta>
+        </paxina>
+        <paxina id="4" >
+              <tipo>10</tipo>
+              <imaxe>7.png</imaxe>
+              <pregunta res="3">¿cuantas tazas de tè hay en cada grupo?</pregunta>
+        </paxina>
+        <paxina id="5" >
+              <tipo>10</tipo>
+            <nonpasar atras="1" >0</nonpasar>
+              <imaxe>9.png</imaxe>
+              <pregunta res="9">¿cuàntas tazas de tè hay ?</pregunta>
+        </paxina>
+        <paxina id="6" >
+              <tipo>26</tipo>
+              <modo>0</modo>
+              <forma>x</forma>
+              <numero>456</numero>
+              <numero>3</numero>
+        </paxina>
+        <paxina id="7" >
+              <tipo>14</tipo>
+              <peza imaxe="" texto="4x4" son="">14.png</peza>
+              <peza imaxe="" texto="5x6" son="">13.png</peza>
+              <peza imaxe="" texto="3x3" son="">16.png</peza>
+              <cfondo>84E1FD</cfondo>
+        </paxina>
+    </libro>
+</lim>
